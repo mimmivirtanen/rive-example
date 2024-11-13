@@ -5,7 +5,7 @@ import {
   Alignment,
   useStateMachineInput,
 } from "@rive-app/react-canvas";
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useRef } from "react";
 import "./App.css";
 
 function App() {
