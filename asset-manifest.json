@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rive-example/static/css/main.1b4aba50.css",
-    "main.js": "/rive-example/static/js/main.12b16973.js",
+    "main.js": "/rive-example/static/js/main.80f70aaf.js",
     "static/js/453.f922e0d5.chunk.js": "/rive-example/static/js/453.f922e0d5.chunk.js",
     "static/media/TT Commons Pro Medium.ttf": "/rive-example/static/media/TT Commons Pro Medium.573b6aa1b0af571b4f62.ttf",
     "index.html": "/rive-example/index.html",
     "main.1b4aba50.css.map": "/rive-example/static/css/main.1b4aba50.css.map",
-    "main.12b16973.js.map": "/rive-example/static/js/main.12b16973.js.map",
+    "main.80f70aaf.js.map": "/rive-example/static/js/main.80f70aaf.js.map",
     "453.f922e0d5.chunk.js.map": "/rive-example/static/js/453.f922e0d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b4aba50.css",
-    "static/js/main.12b16973.js"
+    "static/js/main.80f70aaf.js"
   ]
 }
