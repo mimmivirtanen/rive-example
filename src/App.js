@@ -82,13 +82,13 @@ function App() {
   return (
     <>
       <div style={{ height: "100vh", textAlign: "center" }}>
-        <h1> Scrolla ned! </h1>
+        <h1> Scrolla ned!! </h1>
       </div>
       <div style={{ width: "100vw", height: "50vh" }} ref={riveElementRef}>
         <RiveComponentScrollText />
       </div>
       <div style={{ marginTop: "100vh", textAlign: "center" }}>
-        <h1> Scrolla upp! </h1>
+        <h1> Scrolla upp!! </h1>
       </div>
     </>
   );
